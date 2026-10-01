@@ -1,0 +1,5 @@
+study,n_records,n_valid,integrity_pct
+ONC-101,200,199,99.5
+ONC-202,200,199,99.5
+ONC-303,200,199,99.5
+ALL (pooled),600,597,99.5
